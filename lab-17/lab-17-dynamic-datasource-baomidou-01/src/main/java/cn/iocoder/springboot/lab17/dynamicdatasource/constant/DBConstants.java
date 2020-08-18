@@ -13,6 +13,6 @@ public class DBConstants {
     /**
      * 数据源分组 - 用户库
      */
-    public static final String DATASOURCE_USERS = "users";
+    public static final String DATASOURCE_USERS = "user";
 
 }
